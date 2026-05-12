@@ -84,6 +84,7 @@ Analyzed:
   <img src="images/deliverytimedistribution.png" width="45%">
   <img src="images/rfmsegment.png" width="45%">
 </p>
+
 ### Advanced Analytics
 Built **RFM Segmentation** for delivery agents using:
 
@@ -107,32 +108,6 @@ Preprocessing steps:
 - StandardScaler
 - SMOTE for class imbalance
 - Encoding categorical variables
-
----
-
-## Results
-
-### Model Performance
-
-- **Accuracy:** 89%
-- **Precision (Late Deliveries):** 81%
-- **Recall (Late Deliveries):** 80%
-
-### Key Business Insights
-
-- Heavy traffic significantly increases delivery time
-- Fog and cloudy weather lead to higher delay rates
-- Two-wheelers perform better in congested areas
-- Peak evening hours show highest late-delivery probability
-- Top agents maintain high delivery frequency with lower delivery times
-
-### Recommendations
-
-- Dynamic rider allocation during peak hours
-- Bike-first routing in traffic-heavy zones
-- Incentives for top-performing agents
-- Weather-adjusted ETA estimates
-- ML-based delay alert system
 
 ---
 
@@ -164,7 +139,36 @@ Created a **3-page interactive Power BI dashboard**:
 - Recency vs Frequency
 - Delivery Time by Segment
 <img src="images/page3.png" width="500">
+
 ---
+
+## Results
+
+### Model Performance
+
+- **Accuracy:** 89%
+- **Precision (Late Deliveries):** 81%
+- **Recall (Late Deliveries):** 80%
+
+### Key Business Insights
+
+- Heavy traffic significantly increases delivery time
+- Fog and cloudy weather lead to higher delay rates
+- Two-wheelers perform better in congested areas
+- Peak evening hours show highest late-delivery probability
+- Top agents maintain high delivery frequency with lower delivery times
+
+### Recommendations
+
+- Dynamic rider allocation during peak hours
+- Bike-first routing in traffic-heavy zones
+- Incentives for top-performing agents
+- Weather-adjusted ETA estimates
+- ML-based delay alert system
+
+---
+
+
 
 ## Author
 

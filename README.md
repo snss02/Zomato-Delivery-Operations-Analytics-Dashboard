@@ -6,7 +6,7 @@ Built an end-to-end data analytics project to analyze food delivery operations a
 
 The project combines Python, SQL, Machine Learning, and Power BI to convert raw delivery data into actionable business recommendations.
 
----
+
 
 ## Skills & Tools Used
 
@@ -31,7 +31,6 @@ The project combines Python, SQL, Machine Learning, and Power BI to convert raw 
 - SMOTE
 - StandardScaler
 
----
 
 ## Process
 
@@ -109,7 +108,7 @@ Preprocessing steps:
 - SMOTE for class imbalance
 - Encoding categorical variables
 
----
+
 
 ## Dashboard
 
@@ -140,7 +139,7 @@ Created a **3-page interactive Power BI dashboard**:
 - Delivery Time by Segment
 <img src="images/page3.png" width="500">
 
----
+
 
 ## Results
 
@@ -166,7 +165,7 @@ Created a **3-page interactive Power BI dashboard**:
 - Weather-adjusted ETA estimates
 - ML-based delay alert system
 
----
+
 
 
 
